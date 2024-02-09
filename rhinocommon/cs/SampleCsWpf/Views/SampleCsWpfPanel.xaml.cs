@@ -41,7 +41,7 @@ namespace SampleCsWpf.Views
         System.Threading.Thread.Sleep(100);
       }
 
-      vm.Message = $"Counter set to {vm.Counter}";
+      vm.Message = $"Thread {System.Threading.Thread.CurrentThread.ManagedThreadId}: Counter set to {vm.Counter}";
     }
 
     private void Button2_Click(object sender, RoutedEventArgs e)

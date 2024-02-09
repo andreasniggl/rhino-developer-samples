@@ -64,6 +64,7 @@
     <Compile Include="Commands\SampleCsWpfPanelCommand.cs" />
     <Compile Include="Commands\SampleCsWpfSemiModalDialogCommand.cs" />
     <Compile Include="Commands\SampleCsWpfViewportCommand.cs" />
+    <Compile Include="SampleCsWpfEventHandler.cs" />
     <Compile Include="ViewModels\SampleCsWpfPaneViewModel.cs" />
     <Compile Include="Views\SampleCsWpfDialog.xaml.cs">
       <DependentUpon>SampleCsWpfDialog.xaml</DependentUpon>

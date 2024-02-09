@@ -41,6 +41,8 @@ namespace SampleCsWpf.Commands
     {
       var panel_id = typeof(SampleCsWpfPanelHost).GUID;
 
+      RhinoApp.WriteLine($"Thread {System.Threading.Thread.CurrentThread.ManagedThreadId}: Called command {EnglishName}");
+
       if (mode == RunMode.Interactive)
       {
         Panels.OpenPanel(panel_id);

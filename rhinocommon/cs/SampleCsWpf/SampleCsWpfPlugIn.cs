@@ -25,6 +25,8 @@ namespace SampleCsWpf
 
     protected override LoadReturnCode OnLoad(ref string errorMessage)
     {
+      SampleCsWpfEventHandler.Instance.Enable(true);
+
       return LoadReturnCode.Success;
     }
   }
