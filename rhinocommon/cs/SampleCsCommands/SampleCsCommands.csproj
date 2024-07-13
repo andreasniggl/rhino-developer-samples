@@ -69,6 +69,7 @@
     <Compile Include="SampleCsApplyCrv.cs" />
     <Compile Include="SampleCsArc.cs" />
     <Compile Include="SampleCsBooleanDifference4.cs" />
+    <Compile Include="SampleCsCachedTextureCoordinates.cs" />
     <Compile Include="SampleCsCreateBooleanRegions.cs" />
     <Compile Include="SampleCsCreateUVCurve.cs" />
     <Compile Include="SampleCsAddAlignedDimension.cs" />
@@ -211,6 +212,7 @@
     <Compile Include="SampleCsSetCameraTarget.cs" />
     <Compile Include="SampleCsSetDisplayMode.cs" />
     <Compile Include="SampleCsSetDocumentUserText.cs" />
+    <Compile Include="SampleCsSetObjectName.cs" />
     <Compile Include="SampleCsSetPoint.cs" />
     <Compile Include="SampleCsShadedBrep.cs" />
     <Compile Include="SampleCsShadedView.cs" />

@@ -17,10 +17,13 @@
     <ClCompile Include="cmdSampleComputeVertexColors.cpp" />
     <ClCompile Include="cmdSampleCopyInPlace.cpp" />
     <ClCompile Include="cmdSampleCPlaneWorld.cpp" />
+    <ClCompile Include="cmdSampleCsCachedTextureCoordinates.cpp" />
     <ClCompile Include="cmdSampleDeleteFaces.cpp" />
     <ClCompile Include="cmdSampleDrawZebraPreview.cpp" />
     <ClCompile Include="cmdSampleDump3dmMaterialTextures.cpp" />
+    <ClCompile Include="cmdSampleDumpMeshCachedTextureCoordinates.cpp" />
     <ClCompile Include="cmdSampleDupEdge.cpp" />
+    <ClCompile Include="cmdSampleEnableGrips.cpp" />
     <ClCompile Include="cmdSampleFrameRails.cpp" />
     <ClCompile Include="cmdSampleGetMultipleSpecial.cpp" />
     <ClCompile Include="cmdSampleGrid.cpp" />

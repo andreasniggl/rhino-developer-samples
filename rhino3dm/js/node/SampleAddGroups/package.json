@@ -1,0 +1,18 @@
+{
+  "name": "sampleaddgroups",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rhino3dm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rhino3dm": "^8.4.0"
+  }
+}
